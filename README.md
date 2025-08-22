@@ -45,9 +45,9 @@ Busco sempre evoluir e contribuir com soluções criativas e eficientes.
 ---
 
 ## 📌 Projetos em Destaque
-- 🥋 **[Site de Academia de Luta](#)** – Página institucional responsiva para academia.  
-- 🗳️ **[Integração com API de Deputados](#)** – Projeto para buscar e exibir informações públicas.  
-- 🎮 **[Sistema de Campeonato Esportivo](#)** – Aplicação para organização de torneios.  
+- 🥋 **[Site de Academia de Luta](https://github.com/Mateus-Lucas/Projeto-site-AguiaThai)** – Página institucional responsiva para academia.  
+- 🗳️ **[Integração com API de Deputados](https://github.com/Mateus-Lucas/API-Deputados)** – Projeto para buscar e exibir informações públicas.  
+- 🎮 **[Sistema de Campeonato Esportivo](https://github.com/Mateus-Lucas/Projeto_Frontend)** – Aplicação para organização de torneios.  
 - 🎬 **[Web App de Streaming](#)** – Protótipo de aplicação para consumo de mídia.  
 
 ---
